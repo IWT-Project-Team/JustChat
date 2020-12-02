@@ -25,11 +25,9 @@ description and features
 
 ## Screenshots
 
-![](assets/images/medico3.PNG)
-![](assets/images/medico8.PNG)
-![](assets/images/medico11.PNG)
-![](assets/images/medico16.PNG)
-![](assets/images/android4.jpeg)
+![](assets/images/signin.jpg)
+![](assets/images/chat0.jpg)
+![](assets/images/chat.jpg)
 
 ## How we built it 🏁 Technology Stack
 
