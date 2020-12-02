@@ -7,10 +7,6 @@ This is under development phase
 Complete practical(Production) build is still under development
 ```
 
-![](assets/images/medico1.PNG)
-
-### An all in one digital platform which bridges the gap between the patients and physicians for better care of your health during these days under monitorization from doctors. 
-
 ## 📌 Inspiration
 
 Master
@@ -28,6 +24,7 @@ description and features
 ![](assets/images/signin.jpg)
 ![](assets/images/chat0.jpg)
 ![](assets/images/chat.jpg)
+![](assets/images/chat1.jpg)
 
 ## How we built it 🏁 Technology Stack
 
