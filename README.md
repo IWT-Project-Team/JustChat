@@ -1,24 +1,5 @@
 # JustChat
 
-> **Thanks to master for coming up with this assignment and providing us a platform to exibit our skills**
-
-```
-This is under development phase
-Complete practical(Production) build is still under development
-```
-
-## 📌 Inspiration
-
-Master
-
-## Idea
-
-Idea if any
-
-## 🎯 What it does
-
-description and features
-
 ## Screenshots
 
 ![](assets/images/signin.jpg)
@@ -36,10 +17,6 @@ description and features
 * [Nodejs](https://nodejs.org/en/)
 * [mongoDB](https://www.mongodb.com/)
 * [express](https://expressjs.com/)
-
-## Challenges we ran into
-
-if any
 
 ## Prerequisties
 
