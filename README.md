@@ -74,6 +74,6 @@ MONGODB_URI = ''
 
 ## Team Members
 * Sourav Kunda            
-* Sidhant Sharma
+* Siddhant Sharma
 * Deepak Sharma
-* Sidharth Raja
+* Siddharth Raja
