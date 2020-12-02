@@ -1,0 +1,62 @@
+.form {
+    display: flex;
+    border-top: 2px solid #D3D3D3;
+  }
+  
+  .input {
+    border: none;
+    border-radius: 0;
+    padding: 5%;
+    width: 80%;
+    font-size: 1.2em;
+  }
+
+.fileUpload{
+  opacity: 0;
+}
+
+.image-upload > input
+{
+    display: none;
+}
+
+svg{
+  background-color: DodgerBlue;
+  color: white;
+  padding: 12px 16px ;
+}
+
+.image-upload svg
+{
+    width: 80px;
+    cursor: pointer;
+}
+
+.btn {
+  background-color: DodgerBlue; 
+  border: none; 
+  color: white; 
+  padding: 12px 16px; 
+  font-size: 16px; 
+  cursor: pointer; 
+}
+
+  .My{
+      width: 100%;
+  }
+  
+  input:focus, textarea:focus, select:focus{
+    outline: none;
+  }
+  
+  .sendButton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #2979FF;
+    cursor: pointer;
+    padding: 20px;
+    display: inline-block;
+    border: none;
+    width: 20%;
+  }
